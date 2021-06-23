@@ -7,7 +7,7 @@ this is a small javascript Guess Number applet that lets the user ...
 
 the number of tries left to the user is based upon the max number
 
-it also shows
+it also shows ...
 - the number of tries left
 - the previous guesses
 
